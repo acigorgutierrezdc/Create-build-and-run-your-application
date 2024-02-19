@@ -1,0 +1,15 @@
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\bin\Debug\net8.0\TestProject1.exe
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\bin\Debug\net8.0\TestProject1.deps.json
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\bin\Debug\net8.0\TestProject1.runtimeconfig.json
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\bin\Debug\net8.0\TestProject1.dll
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\bin\Debug\net8.0\TestProject1.pdb
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.dll
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\refint\TestProject1.dll
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.pdb
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
+D:\GitHub-Repository\Create-build-and-run-your-application\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
